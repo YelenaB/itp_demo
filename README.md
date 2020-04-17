@@ -7,3 +7,5 @@ Second line in file
 A line on Github
 
 Trying to edit again
+
+Make a change to the branch
