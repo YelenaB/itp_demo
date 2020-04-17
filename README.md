@@ -1,2 +1,7 @@
-# Initializing comment
-Second line of code
+
+# Project Heading
+Some content in VS Code
+
+Second line in file
+
+A line on Github
